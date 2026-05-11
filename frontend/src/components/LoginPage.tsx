@@ -160,7 +160,7 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
               type="submit"
               className="w-full py-3 bg-[#1a3a5c] text-white font-medium rounded-lg hover:bg-[#14304a] transition-colors"
             >
-              Sign In to Sanctuary
+              Sign In to MedServe
             </button>
 
             {/* Divider */}
